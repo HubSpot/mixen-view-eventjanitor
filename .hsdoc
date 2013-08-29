@@ -1,1 +1,1 @@
-source: "{throttle.coffee,spec/throttle.spec.coffee}"
+source: "{eventJanitor.coffee,spec/eventJanitor.spec.coffee}"
