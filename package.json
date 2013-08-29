@@ -1,5 +1,5 @@
 {
-  "name": "mixen-view-event-janitor",
+  "name": "mixen-view-eventjanitor",
   "version": "0.1.0",
   "description": "Cleanup events in Backbone subviews",
   "main": "eventJanitor.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:HubSpot/mixen-view-event-janitor.git"
+    "url": "git@github.com:HubSpot/mixen-view-eventjanitor.git"
   },
   "scripts": {
     "test": "grunt jasmine"
